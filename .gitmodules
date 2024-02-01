@@ -5,3 +5,7 @@
 [submodule "MOSim"]
 	path = MOSim
 	url = https://github.com/conesalab/mosim
+[submodule "SeuratData"]
+	path = SeuratData
+	url = https://github.com/satijalab/seurat-data
+	registered = false

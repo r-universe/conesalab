@@ -1,0 +1,8 @@
+[
+  {
+    "package": "SeuratData",
+    "url": "https://github.com/satijalab/seurat-data",
+    "via": ["MOSim"],
+    "from": "MOSim"
+  }
+]
